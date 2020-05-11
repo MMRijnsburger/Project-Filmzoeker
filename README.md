@@ -4,7 +4,7 @@ Winc Academy Project - Week 2: Filmzoeker
 Screenshot
 ![Screenshot](./images/Screenshot.png)
 
-Bekijk de live versie van de Filmzoeker: 
+Bekijk de live versie van de Filmzoeker: https://michellesfilmzoeker.netlify.app/
 
 Met dit project heb ik een filmzoeker gemaakt met JavaScript. 
 
